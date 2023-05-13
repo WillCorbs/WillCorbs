@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WillCorbs!
+- 👀 I’m interested in mathematics and programming languages.
+- 🌱 I’m currently learning linear algebra, python and web developement.
+- 💞️ I’m still looking for something to collaborate on.
+- 📫 How to reach me: ---
